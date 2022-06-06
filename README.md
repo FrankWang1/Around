@@ -1,4 +1,4 @@
-# Vicinity
+# Vicinity   See demo videos on the upper right link
 
 Vicinity provides a Geo-index based social network to let users share their daily lives<br/>	
 •	Built a scalable web service in Go to handle posts and deployed to Google Cloud (GAE flex) for better scaling<br/>
